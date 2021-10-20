@@ -56,4 +56,5 @@ program Program
             end do
             write (2, *) "]"
         close(unit = 2)
-end program Program
+        !Ending the program
+end program Program    
